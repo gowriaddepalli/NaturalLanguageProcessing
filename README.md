@@ -12,4 +12,4 @@ These are the programming assignments done for the NLP course under professor gr
 
 ## Assignment 3:
 
-- Enhancing the Named Entity tagger using word embeddings and binarization.(Java)
+- Enhancing the Named Entity tagger using word embeddings and binarization with improving performance with k-means clustering.(Java)
